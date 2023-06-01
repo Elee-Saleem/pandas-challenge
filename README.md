@@ -18,7 +18,7 @@ And also used some websites for proper syntax
 
 3- https://www.google.ca/search?q=cost+per+capita+formula&ei=Stt0ZPbhJomoptQP2KqiyA0&oq=budget+per+capita+form&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABCKBRCGAzIICAAQigUQhgMyCAgAEIoFEIYDOgQIABBHOgUIABCABEoECEEYAEoFCEASATFQyitY8FNg3ndoAHACeAGAAfMJiAGpE5IBCTEuMi42LTEuMZgBAKABAcABAcgBCA&sclient=gws-wiz-serp
 
-4- unsupported format string passed to series.__format__ pandas
+4- unsupported format string passed to series.__format__ pandas \
     - https://itsourcecode.com/typeerror/typeerror-unsupported-format-string-passed-to-series-__format__/?utm_content=expand_article
     - https://stackoverflow.com/questions/52374104/typeerror-unsupported-format-string-passed-to-list-format
 
